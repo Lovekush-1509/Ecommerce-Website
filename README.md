@@ -42,7 +42,7 @@ This project is built for **learning purposes and backend**.
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/Lovekush-1509/Ecommerce-Website.git
-cd your-repo-name
+cd Ecommerce-Website
 ```
 
 ### 2️⃣ Install dependencies
